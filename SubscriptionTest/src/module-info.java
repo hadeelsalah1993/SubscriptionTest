@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hadee
+ *
+ */
+module SubscriptionTest {
+}
